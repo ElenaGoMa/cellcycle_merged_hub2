@@ -1,0 +1,5 @@
+hub cellcycle_merged_hub 
+shortLabel cellcycle_merged_hub
+longLabel cellcycle_merged_hub
+genomesFile genomes.txt
+email e.gomez-marin@lms.mrc.ac.uk

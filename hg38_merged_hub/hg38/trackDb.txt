@@ -1,0 +1,307 @@
+
+
+track minus
+shortLabel minus
+longLabel minus
+type bigWig
+autoScale on
+visibility full
+compositeTrack on
+
+    track 01.tG0.plus
+    parent minus on
+    bigDataUrl CAGE/01.tG0.plus.bw
+    shortLabel 01.tG0.plus
+    longLabel 01.tG0.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 02.tG1.plus
+    parent minus on
+    bigDataUrl CAGE/02.tG1.plus.bw
+    shortLabel 02.tG1.plus
+    longLabel 02.tG1.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 03.tS.plus
+    parent minus on
+    bigDataUrl CAGE/03.tS.plus.bw
+    shortLabel 03.tS.plus
+    longLabel 03.tS.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 04.tG2.plus
+    parent minus on
+    bigDataUrl CAGE/04.tG2.plus.bw
+    shortLabel 04.tG2.plus
+    longLabel 04.tG2.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 05.tM.plus
+    parent minus on
+    bigDataUrl CAGE/05.tM.plus.bw
+    shortLabel 05.tM.plus
+    longLabel 05.tM.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 06.nG0.plus
+    parent minus on
+    bigDataUrl CAGE/06.nG0.plus.bw
+    shortLabel 06.nG0.plus
+    longLabel 06.nG0.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 07.nG1.plus
+    parent minus on
+    bigDataUrl CAGE/07.nG1.plus.bw
+    shortLabel 07.nG1.plus
+    longLabel 07.nG1.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 08.nS.plus
+    parent minus on
+    bigDataUrl CAGE/08.nS.plus.bw
+    shortLabel 08.nS.plus
+    longLabel 08.nS.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 09.nG2.plus
+    parent minus on
+    bigDataUrl CAGE/09.nG2.plus.bw
+    shortLabel 09.nG2.plus
+    longLabel 09.nG2.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 10.nM_2.plus
+    parent minus on
+    bigDataUrl CAGE/10.nM_2.plus.bw
+    shortLabel 10.nM_2.plus
+    longLabel 10.nM_2.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 11.nS_A.plus
+    parent minus on
+    bigDataUrl CAGE/11.nS_A.plus.bw
+    shortLabel 11.nS_A.plus
+    longLabel 11.nS_A.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 12.nS_B.plus
+    parent minus on
+    bigDataUrl CAGE/12.nS_B.plus.bw
+    shortLabel 12.nS_B.plus
+    longLabel 12.nS_B.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+
+track plus
+shortLabel plus
+longLabel plus
+type bigWig
+autoScale on
+visibility full
+compositeTrack on
+
+    track 01.tG0.minus
+    parent plus on
+    bigDataUrl CAGE/01.tG0.minus.bw
+    shortLabel 01.tG0.minus
+    longLabel 01.tG0.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 02.tG1.minus
+    parent plus on
+    bigDataUrl CAGE/02.tG1.minus.bw
+    shortLabel 02.tG1.minus
+    longLabel 02.tG1.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 03.tS.minus
+    parent plus on
+    bigDataUrl CAGE/03.tS.minus.bw
+    shortLabel 03.tS.minus
+    longLabel 03.tS.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 04.tG2.minus
+    parent plus on
+    bigDataUrl CAGE/04.tG2.minus.bw
+    shortLabel 04.tG2.minus
+    longLabel 04.tG2.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 05.tM.minus
+    parent plus on
+    bigDataUrl CAGE/05.tM.minus.bw
+    shortLabel 05.tM.minus
+    longLabel 05.tM.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 06.nG0.minus
+    parent plus on
+    bigDataUrl CAGE/06.nG0.minus.bw
+    shortLabel 06.nG0.minus
+    longLabel 06.nG0.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 07.nG1.minus
+    parent plus on
+    bigDataUrl CAGE/07.nG1.minus.bw
+    shortLabel 07.nG1.minus
+    longLabel 07.nG1.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 08.nS.minus
+    parent plus on
+    bigDataUrl CAGE/08.nS.minus.bw
+    shortLabel 08.nS.minus
+    longLabel 08.nS.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 09.nG2.minus
+    parent plus on
+    bigDataUrl CAGE/09.nG2.minus.bw
+    shortLabel 09.nG2.minus
+    longLabel 09.nG2.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 10.nM_2.minus
+    parent plus on
+    bigDataUrl CAGE/10.nM_2.minus.bw
+    shortLabel 10.nM_2.minus
+    longLabel 10.nM_2.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 11.nS_A.minus
+    parent plus on
+    bigDataUrl CAGE/11.nS_A.minus.bw
+    shortLabel 11.nS_A.minus
+    longLabel 11.nS_A.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 12.nS_B.minus
+    parent plus on
+    bigDataUrl CAGE/12.nS_B.minus.bw
+    shortLabel 12.nS_B.minus
+    longLabel 12.nS_B.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
